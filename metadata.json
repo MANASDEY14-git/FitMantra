@@ -1,0 +1,6 @@
+{
+  "name": "FitMantra",
+  "description": "A calm, modern mobile-first wellness platform tailored for stress, routines, sleep, and sustainable habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
