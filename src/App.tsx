@@ -872,7 +872,7 @@ export default function App() {
               {profile.name.charAt(0)}
             </div>
             <h3 className="text-lg font-extrabold mt-3">{profile.name}</h3>
-            <span className="text-xs text-slate-400 block mt-0.5">Middle-Class Wellness Cohort</span>
+            <span className="text-xs text-slate-400 block mt-0.5">Active Wellness Cohort</span>
 
             <div className="mt-4 pt-4 border-t border-slate-100 dark:border-slate-800 grid grid-cols-3 gap-2 text-center">
               <div className="p-1">
