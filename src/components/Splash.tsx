@@ -61,7 +61,7 @@ export default function Splash({ onComplete, darkMode }: SplashProps) {
           animate ? "opacity-100" : "opacity-0"
         }`}>
           <Sparkles size={11} className="text-brand-orange animate-spin" style={{ animationDuration: '4s' }} />
-          <span>Made for Middle-Class Balanced Lifestyles</span>
+          <span>Made for Balanced Lifestyles</span>
         </div>
       </div>
 

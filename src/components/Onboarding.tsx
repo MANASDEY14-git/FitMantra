@@ -19,13 +19,13 @@ export default function Onboarding({ onComplete, darkMode }: OnboardingProps) {
 
   const totalSteps = 6;
 
-  // Emojis and descriptions for Indian middle class goals
+  // Emojis and descriptions for goals
   const goalOptions = [
     { id: "stress", label: "Reduce Office & Work Stress", emoji: "🧘‍♂️", sub: "Learn easy 3-min breathing resets during hectic shifts" },
     { id: "sleep", label: "Better Sleep Quality", emoji: "😴", sub: "Wind down gently after busy days without blue light guilt" },
     { id: "energy", label: "Boost Sluggish Daily Energy", emoji: "⚡", sub: "Low pressure, beginner physical breaks that build focus" },
     { id: "belly", label: "Melt Belly Fat Naturally", emoji: "🥗", sub: "Gentle walks & sensible Indian diet habits, no toxic calorie tracking" },
-    { id: "routine", label: "Create Consistent Routines", emoji: "🌱", sub: "Simple micro-habits that fit right into middle-class family schedules" },
+    { id: "routine", label: "Create Consistent Routines", emoji: "🌱", sub: "Simple micro-habits that fit right into busy family schedules" },
   ];
 
   const handleNext = () => {
